@@ -7,3 +7,6 @@ C:\Users\zpc\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Con
 C:\Users\zpc\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
 C:\Users\zpc\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 C:\Users\zpc\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\zpc\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\zpc\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\zpc\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete

@@ -10,3 +10,5 @@ C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1
 C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
 C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\zpc\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

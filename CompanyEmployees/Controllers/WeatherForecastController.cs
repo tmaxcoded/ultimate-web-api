@@ -22,10 +22,10 @@ namespace CompanyEmployees.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        //private readonly ILogger<WeatherForecastController> _logger;
-        
+        //private readonly ILogger<WeatherForecastController> _logger;page 31
 
-       
+
+
         [HttpGet]
         public IEnumerable<string> Get()
         {
